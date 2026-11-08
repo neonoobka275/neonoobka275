@@ -1,16 +1,13 @@
-## Hi there 👋
+# hello from Singapore, i'm neonoobka275 👋
 
-<!--
-**neonoobka275/neonoobka275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on design systems
+- 💬 Ask me about TailwindCSS
+- ☕ Powered by coffee and late-night commits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neonoobka275&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="neonoobka275 GitHub stats" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=neonoobka275&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Vite-e3b341?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Next.js-e3b341?style=for-the-badge&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-e3b341?style=for-the-badge&logoColor=white" alt="TypeScript" />
